@@ -31,8 +31,7 @@ This workshop provides an overview of OGC APIs, covering core concepts, features
    - Share a link to any online tools you used.
 
 2. **API Feature Exploration**
-   - Visit: [https://events.ogc.org/InnovationDaysDC#/](https://events.ogc.org/InnovationDaysDC#/)
-   - Navigate to Agenda -> Day 3 -> OGC API Training Workshop.
+   - Visit: [https://demo.ldproxy.net/daraa/collections/AeronauticCrv/items?f=html](https://demo.ldproxy.net/daraa/collections/AeronauticCrv/items?f=html)
    - Complete the exercises:
      - Identify number of features in a collection.
      - Determine the “Type Code = GB075” count.
@@ -40,7 +39,11 @@ This workshop provides an overview of OGC APIs, covering core concepts, features
      - Identify feature types and coordinates.
    - Save your answers to your document.
 
-3. **SensorThings API Mapping**
+3. **OGC API - Maps**
+   - https://pygeoapi.io/
+      
+
+4. **SensorThings API Mapping**
    - Access the SensorThings API: [https://toronto-bike-snapshot.sensorup.com/v1.0](https://toronto-bike-snapshot.sensorup.com/v1.0)
    - Use ChatGPT or other tools to generate a simple JavaScript client that visualizes Locations with Leaflet.
    - Save your code and any screenshots to your document.

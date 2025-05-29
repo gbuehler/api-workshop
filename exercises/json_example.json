@@ -1,0 +1,10 @@
+{
+  "OGCAPI": {
+    "Name": "Greg Buehler",
+    "Title": "Director, Infrastructure Services",
+    "API": {
+      "Feature": "Features",
+      "Standard": "OGC API - Features"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGCAPI>
+  <Name>Greg Buehler</Name>
+  <Title>Director, Infrastructure Services</Title>
+  <API>
+    <Feature>Features</Feature>
+    <Standard>OGC API - Features</Standard>
+  </API>
+</OGCAPI>
+
